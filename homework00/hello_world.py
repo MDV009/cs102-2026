@@ -6,6 +6,3 @@ MESSAGE = "676767"
 def text():
     """возвращает 67!!!!"""
     return MESSAGE  # возвращает 67!!!!
-
-
-print(text())
