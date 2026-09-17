@@ -1,2 +1,11 @@
+"""676767"""
+
+MESSAGE = "676767"
+
+
 def text():
-    return message
+    """возвращает 67!!!!"""
+    return MESSAGE  # возвращает 67!!!!
+
+
+print(text())
