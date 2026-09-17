@@ -1,8 +1,8 @@
-"""676767"""
+"""message"""
 
-MESSAGE = "676767"
+MESSAGE = "message"
 
 
 def text():
-    """возвращает 67!!!!"""
-    return MESSAGE  # возвращает 67!!!!
+    """возвращает message!!!!"""
+    return MESSAGE
